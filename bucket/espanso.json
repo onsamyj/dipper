@@ -1,0 +1,41 @@
+{
+  "version": "2.1.8",
+  "description": "Text expander",
+  "homepage": "https://espanso.org",
+  "license": "GPL-3.0-only",
+  "suggest": {
+      "Microsoft Visual C++ Redistributables": "extras/vcredist2022"
+  },
+  "architecture": {
+      "64bit": {
+          "url": "https://github.com/espanso/espanso/releases/download/v2.1.8/Espanso-Win-Portable-x86_64.zip",
+          "hash": "57b64a2c1591345fe92f03a8c6670d97886b60e42c542161eacc8aa79f42f557"
+      }
+  },
+  "extract_dir": "espanso-portable",
+  "bin": [
+      "espansod.exe",
+      "espanso.cmd"
+  ],
+  "shortcuts": [
+      [
+          "espansod.exe",
+          "Espanso",
+          "launcher"
+      ]
+  ],
+  "persist": ".espanso",
+  "checkver": {
+    "github": "https://github.com/federico-terzi/espanso"
+  },
+  "autoupdate": {
+      "architecture": {
+          "64bit": {
+              "url": "https://github.com/federico-terzi/espanso/releases/download/v$version/Espanso-Win-Portable-x86_64.zip",
+              "hash": {
+                  "url": "$url.sha256.txt"
+              }
+          }
+      }
+  }
+}
