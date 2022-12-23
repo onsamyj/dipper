@@ -4,5 +4,7 @@
   "homepage": "https://github.com/onsamyj/WindowsTerminalIcons",
   "license": "Public Domain",
   "url": "https://github.com/onsamyj/WindowsTerminalIcons/archive/refs/heads/main.zip",
-  "extract_dir": "WindowsTerminalIcons-main/Icons"
+  "hash": "f8dfe05c30f968bfd9c500d0f93d110327a802844cf72095266e0582665b70b9",
+  "extract_dir": "WindowsTerminalIcons-main\\Icons",
+  "post_install": "Remove-Item \"$dir\\WindowsTerminalIcons-main\""
 }
