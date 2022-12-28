@@ -2,9 +2,9 @@
   "version": "1.0",
   "description": "PNG Icons to use with Windows Terminal",
   "homepage": "https://github.com/onsamyj/WindowsTerminalIcons",
-  "license": "Public Domain",
+  "license": "Unlicense",
   "url": "https://github.com/onsamyj/WindowsTerminalIcons/archive/refs/heads/main.zip",
-  "hash": "f8dfe05c30f968bfd9c500d0f93d110327a802844cf72095266e0582665b70b9",
+  "hash": "84ef40ce02c921870618d407a7307beec820ac4bb97115650242ee278056cf8f",
   "extract_dir": "WindowsTerminalIcons-main\\Icons",
   "post_install": "Remove-Item \"$dir\\WindowsTerminalIcons-main\""
 }
