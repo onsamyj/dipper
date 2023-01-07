@@ -1,5 +1,13 @@
 # 🥣 Dipper
 
+<!--
+
+  ↑ ↑
+=(o o)=
+(") (")
+
+-->
+
 [![Tests](https://github.com/onsamyj/dipper/actions/workflows/ci.yml/badge.svg)](https://github.com/onsamyj/dipper/actions/workflows/ci.yml) [![Excavator](https://github.com/onsamyj/dipper/actions/workflows/excavator.yml/badge.svg)](https://github.com/onsamyj/dipper/actions/workflows/excavator.yml) [![Unlicense](https://img.shields.io/badge/Unlicense-Public_Domain-informational?logo=unlicense)](https://unlicense.org/)
 
 ## What is it?
@@ -15,6 +23,8 @@ To install specific apps, run `scoop install <name-of-an-app>`. Or, to be more r
 [Boop](https://github.com/miltoncandelero/Boop) — Remote installer for Nintendo 3DS and Nintendo Switch. *If you know what I mean.* Run `scoop install boop` to install.
 
 [Espanso](https://espanso.org) — text expander. It is in official buckets, but, for some reason, not the latest version. Until they fix that, this is it. Run `scoop install dipper/espanso` to install. Using `dipper/espanso` means that would be installed version from this bucket specifically.
+
+[Greenfish Icon Editor Pro](http://greenfishsoftware.org/gfie.php) — freeware image editor for icons, cursors, etc. Run `scoop greenfish sayodevice` to install.
 
 [Sayo Device](https://sayodevice.com/help/std/en/web-device/) — configuration program for Sayo mechanical keyboards (can be named differently, look [kinda like this](https://i.imgur.com/pok4pys.png)). Run `scoop install sayodevice` to install.
 
