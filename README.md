@@ -24,11 +24,11 @@ To install specific apps, run `scoop install <name-of-an-app>`. Or, to be more r
 
 <!-- [Espanso](https://espanso.org) — text expander. It is in official buckets, but, for some reason, not the latest version. Until they fix that, this is it. Run `scoop install dipper/espanso` to install. Using `dipper/espanso` means that would be installed version from this bucket specifically. -->
 
-[Greenfish Icon Editor Pro](http://greenfishsoftware.org/gfie.php) — freeware image editor for icons, cursors, etc. Run `scoop greenfish sayodevice` to install.
+[Greenfish Icon Editor Pro](http://greenfishsoftware.org/gfie.php) — freeware image editor for icons, cursors, etc. Run `scoop install greenfish` to install.
 
 [Sayo Device](https://sayodevice.com/help/std/en/web-device/) — configuration program for Sayo mechanical keyboards (can be named differently, look [kinda like this](https://i.imgur.com/pok4pys.png)). Run `scoop install sayodevice` to install.
 
-[Windows Terminal Icons](https://github.com/onsamyj/WindowsTerminalIcons) — Icons I made for use with with [Windows Terminal](https://github.com/microsoft/terminal). Run `scoop install windowsterminalicons` to install. Then add icons to `settings.json`, something like this: `"icon": "C:\\Users\\<yourUsername>\\scoop\\apps\\windowsterminalicons\\current\\PowerShell.png"`
+[Windows Terminal Icons](https://github.com/onsamyj/WindowsTerminalIcons) — Icons I made for use with with [Windows Terminal](https://github.com/microsoft/terminal). Run `scoop install windowsterminalicons` to install.
 
 [YeeManage](https://github.com/mdjx/YeeManage) — command line tool for controlling Yeelight colour smart globes. Run `scoop install yeemanage` to install.
 
