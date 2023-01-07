@@ -22,7 +22,7 @@ To install specific apps, run `scoop install <name-of-an-app>`. Or, to be more r
 
 [Boop](https://github.com/miltoncandelero/Boop) — Remote installer for Nintendo 3DS and Nintendo Switch. *If you know what I mean.* Run `scoop install boop` to install.
 
-[Espanso](https://espanso.org) — text expander. It is in official buckets, but, for some reason, not the latest version. Until they fix that, this is it. Run `scoop install dipper/espanso` to install. Using `dipper/espanso` means that would be installed version from this bucket specifically.
+<!-- [Espanso](https://espanso.org) — text expander. It is in official buckets, but, for some reason, not the latest version. Until they fix that, this is it. Run `scoop install dipper/espanso` to install. Using `dipper/espanso` means that would be installed version from this bucket specifically. -->
 
 [Greenfish Icon Editor Pro](http://greenfishsoftware.org/gfie.php) — freeware image editor for icons, cursors, etc. Run `scoop greenfish sayodevice` to install.
 
