@@ -1,9 +1,8 @@
 {
     "version": "2.4.21",
-    "description": "Files. A modern file explorer that pushes the boundaries of the Windows platform.",
+    "description": "A modern file explorer.",
     "homepage": "https://files.community/",
     "license": "MIT",
-    "changelog": "https://github.com/files-community/Files/releases",
     "url": "https://github.com/files-community/Files/releases/download/v2.4.21/Files.Package_2.4.21.0_x64_arm64_Sideload.msixbundle#/setup.msixbundle",
     "hash": "47e56d739bdf502a6aee537f8a268180e3f0f069c1c6fb06391dc498e309a9f5",
     "pre_install": [
