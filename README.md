@@ -44,11 +44,6 @@ Or, to be more robust,\
 
 
 
-**[Files](https://files.community/)** — a modern file explorer.\
-`scoop install files`
-
-
-
 **[Greenfish Icon Editor Pro](http://greenfishsoftware.org/gfie.php)** — freeware image editor for icons, cursors, etc.\
 `scoop install greenfish`
 
