@@ -1,12 +1,12 @@
 {
-  "version": "1.1",
-  "description": "Command line tool for controlling Yeelight colour smart globes.",
-  "homepage": "https://github.com/mdjx/YeeManage",
-  "license": "Freeware",
-  "url": "https://github.com/mdjx/YeeManage/releases/download/v1.1/yeelight.exe",
-  "bin": "yeelight.exe",
-  "checkver": "github",
-  "autoupdate": {
-      "url": "https://github.com/mdjx/YeeManage/releases/download/v$version/yeelight.exe"
-  }
+    "version": "1.1",
+    "description": "Command line tool for controlling Yeelight colour smart globes.",
+    "homepage": "https://github.com/mdjx/YeeManage",
+    "license": "Freeware",
+    "url": "https://github.com/mdjx/YeeManage/releases/download/v1.1/yeelight.exe",
+    "bin": "yeelight.exe",
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://github.com/mdjx/YeeManage/releases/download/v$version/yeelight.exe"
+    }
 }

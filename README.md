@@ -1,14 +1,8 @@
 # 🥣 Dipper
 
-<!--
-
-  ↑ ↑
-=(o o)=
-(") (")
-
--->
-
 [![Tests](https://github.com/onsamyj/dipper/actions/workflows/ci.yml/badge.svg)](https://github.com/onsamyj/dipper/actions/workflows/ci.yml) [![Excavator](https://github.com/onsamyj/dipper/actions/workflows/excavator.yml/badge.svg)](https://github.com/onsamyj/dipper/actions/workflows/excavator.yml) [![Unlicense](https://img.shields.io/badge/Unlicense-Public_Domain-informational?logo=unlicense)](https://unlicense.org/)
+
+
 
 ## What is it?
 
@@ -18,17 +12,64 @@ To add this bucket, run `scoop bucket add dipper https://github.com/onsamyj/dipp
 
 To install specific apps, run `scoop install <name-of-an-app>`. Or, to be more robust, `scoop install dipper/<name-of-an-app>`.
 
+
+
 ## What’s in it?
 
-[Boop](https://github.com/miltoncandelero/Boop) — Remote installer for Nintendo 3DS and Nintendo Switch. *If you know what I mean.* Run `scoop install boop` to install.
+<!-- **[8BitDo Firmware Upgrade Tool](https://support.8bitdo.com/firmware-updater.html)** for [8BitDo](https://www.8bitdo.com/) gamepads.\
+`scoop install 8bitdo-firmware`
 
-<!-- [Espanso](https://espanso.org) — text expander. It is in official buckets, but, for some reason, not the latest version. Until they fix that, this is it. Run `scoop install dipper/espanso` to install. Using `dipper/espanso` means that would be installed version from this bucket specifically. -->
 
-[Greenfish Icon Editor Pro](http://greenfishsoftware.org/gfie.php) — freeware image editor for icons, cursors, etc. Run `scoop install greenfish` to install.
 
-[Sayo Device](https://sayodevice.com/help/std/en/web-device/) — configuration program for Sayo mechanical keyboards (can be named differently, look [kinda like this](https://i.imgur.com/pok4pys.png)). Run `scoop install sayodevice` to install.
+**[8BitDo Ultimate Software](https://support.8bitdo.com/ultimate/pro2.html)** for [8BitDo Pro 2](https://www.8bitdo.com/pro2/) gamepad configuration.\
+`scoop install 8bitdo-pro2` -->
 
-[Windows Terminal Icons](https://github.com/onsamyj/WindowsTerminalIcons) — Icons I made for use with with [Windows Terminal](https://github.com/microsoft/terminal). Run `scoop install windowsterminalicons` to install.
 
-[YeeManage](https://github.com/mdjx/YeeManage) — command line tool for controlling Yeelight colour smart globes. Run `scoop install yeemanage` to install.
 
+**[Boop](https://github.com/miltoncandelero/Boop)** — remote installer for Nintendo 3DS and Nintendo Switch.\
+`scoop install boop`
+
+
+
+<!-- **[Firmware update tool](https://www.brookaccessory.com/download/X%20One/)** for [Brook X One Adapter](https://www.brookaccessory.com/detail/84585951/).\
+`scoop install brook-xone`
+
+
+
+**[Firmware update tool](https://www.brookaccessory.com/download/X%20One/)** for [Brook X One SE Adapter](https://www.brookaccessory.com/detail/43268489/).\
+`scoop install brook-xonese` -->
+
+
+
+**[Files](https://files.community/)** — a modern file explorer.\
+`scoop install files`
+
+
+
+**[Greenfish Icon Editor Pro](http://greenfishsoftware.org/gfie.php)** — freeware image editor for icons, cursors, etc.\
+`scoop install greenfish`
+
+
+
+<!-- **[Configuration tool](https://sayodevice.com/help/std/en/web-device/)** for Sayo mechanical keyboards (can have different names, look [kinda like this](https://i.imgur.com/pok4pys.png)).\
+`scoop install sayodevice` -->
+
+
+
+**[Windows Terminal Icons](https://github.com/onsamyj/WindowsTerminalIcons)** I made for use with [Windows Terminal](https://github.com/microsoft/terminal).\
+`scoop install windowsterminalicons`
+
+
+
+**[YeeManage](https://github.com/mdjx/YeeManage)** — command line tool for controlling Yeelight color smart globes.\
+`scoop install yeemanage`
+
+<!--
+
+  ↑ ↑    .  .  _   _   _
+=(o o)=  |\ | | | |_| |_
+(") (")  | \| |_| |   |_
+--- nothing personal ---
+This is unlicense.org’d.
+
+-->
