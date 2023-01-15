@@ -1,7 +1,7 @@
 {
     "version": "1.1",
     "description": "Brook Marine firmware updater",
-    "homepage": "https://www.brookaccessory.com/detail/15320432/",
+    "homepage": "https://www.brookaccessory.com/download/P4%20Adapter/",
     "license": "Proprietary",
     "url": "https://www.brookaccessory.com/library/dl_file.php?catname=P4%20Adapter&id=202&type=2&dir=download#/dl.zip",
     "extract_dir": "PS4ADAPTER_Online",
@@ -10,5 +10,8 @@
             "PS4ADAPTER_Online.exe",
             "Brook Marine"
         ]
-    ]
+    ],
+    "checkver": {
+        "re": "    V([\\d.]+(?:\\w|))"
+    }
 }

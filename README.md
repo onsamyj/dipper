@@ -8,21 +8,27 @@
 
 Small [scoop.sh](https://scoop.sh/) bucket for miscellaneous bits and bobs. Made for personal use, but feel [free to use it](https://unlicense.org/) if you want.
 
-To add this bucket, run `scoop bucket add dipper https://github.com/onsamyj/dipper`.
+To add this bucket, run\
+`scoop bucket add dipper https://github.com/onsamyj/dipper`.
 
-To install specific apps, run `scoop install <name-of-an-app>`. Or, to be more robust, `scoop install dipper/<name-of-an-app>`.
+To install specific apps, run\
+`scoop install <name-of-an-app>`\
+Or, to be more robust,\
+`scoop install dipper/<name-of-an-app>`.
 
 
 
 ## What’s in it?
 
-<!-- **[8BitDo Firmware Upgrade Tool](https://support.8bitdo.com/firmware-updater.html)** for [8BitDo](https://www.8bitdo.com/) gamepads.\
+**[8BitDo Firmware Upgrade Tool](https://support.8bitdo.com/firmware-updater.html)** for [8BitDo](https://www.8bitdo.com/) gamepads.\
 `scoop install 8bitdo-firmware`
 
 
 
 **[8BitDo Ultimate Software](https://support.8bitdo.com/ultimate/pro2.html)** for [8BitDo Pro 2](https://www.8bitdo.com/pro2/) gamepad configuration.\
-`scoop install 8bitdo-pro2` -->
+`scoop install 8bitdo-pro2`
+
+> ℹ️ Both of them have they own autoupdate feature, that you can’t, afaik, turn off. So this is more of an installation helper, than anything. And also version number can be out of date because of that.
 
 
 
@@ -31,13 +37,10 @@ To install specific apps, run `scoop install <name-of-an-app>`. Or, to be more r
 
 
 
-<!-- **[Firmware update tool](https://www.brookaccessory.com/download/X%20One/)** for [Brook X One Adapter](https://www.brookaccessory.com/detail/84585951/).\
-`scoop install brook-xone`
-
-
-
-**[Firmware update tool](https://www.brookaccessory.com/download/X%20One/)** for [Brook X One SE Adapter](https://www.brookaccessory.com/detail/43268489/).\
-`scoop install brook-xonese` -->
+**[Brook](https://www.brookaccessory.com/)**  firmware update tools for [X One](https://www.brookaccessory.com/detail/84585951/), [X One SE](https://www.brookaccessory.com/detail/43268489/) and [Marine]() adapters.\
+`scoop install brook-xone`\
+`scoop install brook-xonese`\
+`scoop install brook-marine`
 
 
 
@@ -51,8 +54,8 @@ To install specific apps, run `scoop install <name-of-an-app>`. Or, to be more r
 
 
 
-<!-- **[Configuration tool](https://sayodevice.com/help/std/en/web-device/)** for Sayo mechanical keyboards (can have different names, look [kinda like this](https://i.imgur.com/pok4pys.png)).\
-`scoop install sayodevice` -->
+**[Configuration tool](https://sayodevice.com/help/std/en/web-device/)** for Sayo mechanical keyboards (can have different names, look [kinda like this](https://i.imgur.com/pok4pys.png)).\
+`scoop install sayodevice`
 
 
 

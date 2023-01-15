@@ -10,5 +10,9 @@
             "XONEADAPTER.exe",
             "Brook X One Adapter"
         ]
-    ]
+    ],
+    "checkver": {
+        "re": "    V([\\d.]+(?:\\w|))",
+        "reverse": true
+    }
 }
