@@ -37,7 +37,7 @@ Or, to be more robust,\
 
 
 
-**[Brook](https://www.brookaccessory.com/)**  firmware update tools for [X One](https://www.brookaccessory.com/detail/84585951/), [X One SE](https://www.brookaccessory.com/detail/43268489/) and [Marine]() adapters.\
+**[Brook](https://www.brookaccessory.com/)**  firmware update tools for [X One](https://www.brookaccessory.com/detail/84585951/), [X One SE](https://www.brookaccessory.com/detail/43268489/) and [Marine](https://www.brookaccessory.com/detail/15320432/) adapters.\
 `scoop install brook-xone`\
 `scoop install brook-xonese`\
 `scoop install brook-marine`
