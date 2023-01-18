@@ -28,7 +28,7 @@ Or, to be more robust,\
 **[8BitDo Ultimate Software](https://support.8bitdo.com/ultimate/pro2.html)** for [8BitDo Pro 2](https://www.8bitdo.com/pro2/) gamepad configuration.\
 `scoop install 8bitdo-pro2`
 
-> ℹ️ Both of them have they own autoupdate feature, that you can’t, afaik, turn off. So this is more of an installation helper, than anything. And also version number can be out of date because of that.
+> ℹ️ Both of them have their own autoupdate feature, that, afaik, you can’t turn off. So this is more of an installation helper, than anything. And also version number can be out of date because of that.
 
 
 
@@ -37,10 +37,20 @@ Or, to be more robust,\
 
 
 
-**[Brook](https://www.brookaccessory.com/)**  firmware update tools for [X One](https://www.brookaccessory.com/detail/84585951/), [X One SE](https://www.brookaccessory.com/detail/43268489/) and [Marine](https://www.brookaccessory.com/detail/15320432/) adapters.\
+**[Brook](https://www.brookaccessory.com/)** firmware update tools for [X One](https://www.brookaccessory.com/detail/84585951/), [X One SE](https://www.brookaccessory.com/detail/43268489/) and [Marine](https://www.brookaccessory.com/detail/15320432/) adapters.\
 `scoop install brook-xone`\
 `scoop install brook-xonese`\
 `scoop install brook-marine`
+
+
+
+**[Pixel-perfect mod](https://github.com/bladeSk/DOSBox-pixel-perfect)** — a modified version of [DOSBox](https://www.dosbox.com/) with focus on super crisp visual output.\
+`scoop install dosbox-pixel-perfect`
+
+
+
+**[Free Color Picker](https://www.pazera-software.com/products/free-color-picker/)** — a program that lets you capture and manipulate the color of any pixel on the screen.\
+`scoop install free-color-picker`
 
 
 
