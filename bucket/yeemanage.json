@@ -1,6 +1,6 @@
 {
     "version": "1.1",
-    "description": "Command line tool for controlling Yeelight colour smart globes.",
+    "description": "Yeemanage is a command line tool for controlling Yeelight color smart globes.",
     "homepage": "https://github.com/mdjx/YeeManage",
     "license": "Freeware",
     "url": "https://github.com/mdjx/YeeManage/releases/download/v1.1/yeelight.exe",

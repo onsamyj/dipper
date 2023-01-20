@@ -1,6 +1,6 @@
 {
     "version": "r4019.3",
-    "description": "A modified version of DOSBox with focus on super crisp visual output.",
+    "description": "A modified version of DOSBox with focus on super crisp, pixel perfect visual output.",
     "homepage": "https://github.com/bladeSk/DOSBox-pixel-perfect",
     "license": "GPL-2.0 license",
     "url": "https://github.com/bladeSk/DOSBox-pixel-perfect/releases/download/r4019.3/dosbox-pixel-perfect-SVNr4019.3-win.zip",
