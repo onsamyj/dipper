@@ -64,6 +64,11 @@ Or, to be more robust,\
 
 
 
+**[Terminal ToDo List (TTDL)](https://github.com/VladimirMarkelov/ttdl/)** using plain text [todo.txt](https://todotxt.org) format.\
+`scoop install ttdl`
+
+
+
 **[Windows Terminal Icons](https://github.com/onsamyj/WindowsTerminalIcons)** I made for use with [Windows Terminal](https://github.com/microsoft/terminal).\
 `scoop install windowsterminalicons`
 
