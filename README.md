@@ -68,6 +68,9 @@ Or, to be more robust,\
 `scoop install ttdl`
 
 
+**[Universal Android Debloater](https://github.com/0x192/universal-android-debloater)** does exactly what it says on the tin.\
+`scoop install uad`
+
 
 **[Windows Terminal Icons](https://github.com/onsamyj/WindowsTerminalIcons)** I made for use with [Windows Terminal](https://github.com/microsoft/terminal).\
 `scoop install windowsterminalicons`
