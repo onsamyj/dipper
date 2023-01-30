@@ -1,10 +1,10 @@
 {
-    "version": "3.6.0",
+    "version": "3.6.2",
     "description": "Terminal ToDo List (TTDL) using plain text todo.txt format.",
     "homepage": "https://github.com/VladimirMarkelov/ttdl",
     "license": "MIT License",
-    "url": "https://github.com/VladimirMarkelov/ttdl/releases/download/v3.6.0/ttdl_3.6.0_win_x64.zip",
-    "hash": "2e255767152300e9addc976146328acf6da0e2d373ab27a6b62315391846610f",
+    "url": "https://github.com/VladimirMarkelov/ttdl/releases/download/v3.6.2/ttdl_3.6.2_win_x64.zip",
+    "hash": "776864a9e64f67540abae7237cde943efe71002dd839159ea1a554eb7c10f853",
     "bin": [
         [
             "ttdl.exe",
