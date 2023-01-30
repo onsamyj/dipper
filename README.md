@@ -35,9 +35,6 @@ Or, to be more robust,\
 **[Pixel-perfect mod](https://github.com/bladeSk/DOSBox-pixel-perfect)** — a modified version of [DOSBox](https://www.dosbox.com/) with focus on super crisp visual output.\
 `scoop install dosbox-pixel-perfect`
 
-**[Free Color Picker](https://www.pazera-software.com/products/free-color-picker/)** — a program that allows you to capture and manipulate the color of any pixel on your screen.\
-`scoop install free-color-picker`
-
 **[Greenfish Icon Editor Pro](http://greenfishsoftware.org/gfie.php)** — freeware image editor for icons, cursors, etc.\
 `scoop install greenfish`
 
