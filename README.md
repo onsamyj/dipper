@@ -2,7 +2,7 @@
 
 [![Tests](https://github.com/onsamyj/dipper/actions/workflows/ci.yml/badge.svg)](https://github.com/onsamyj/dipper/actions/workflows/ci.yml) [![Excavator](https://github.com/onsamyj/dipper/actions/workflows/excavator.yml/badge.svg)](https://github.com/onsamyj/dipper/actions/workflows/excavator.yml) [![Unlicense](https://img.shields.io/badge/Unlicense-Public_Domain-informational?logo=unlicense)](https://unlicense.org/)
 
-<svg viewBox="0 0 32 32" style="float:right;width:8rem;heigh:auto;max-width:25%;margin-left:2rem"><defs><mask id="dpb"><rect width="32" height="32" fill="white"/><g fill="black"><circle cx="8" cy="4" r="1"/><circle cx="22" cy="6" r="6"/></g></mask><clipPath id="dpw"><rect x="20" y="14" width="12" height="8"/></clipPath><clipPath id="dpc"><circle cx="10" cy="18" r="6"/><polygon points="4 12,16 12,16 24,10 24,4 18"/></clipPath></defs><polygon points="0 4,6 2,6 6" fill="#666"/><polygon points="18 23,14 31,17 31,10 31,14 31" stroke="#666" stroke-width="2" stroke-linejoin="round"/><g mask="url(#dpb)" fill="#F33"><circle cx="10" cy="6" r="6"/><circle cx="10" cy="18" r="6"/><circle cx="22" cy="18" r="6"/><polygon points="4 6,10 0,28 18,22 24,10 24,4 18"/></g><g fill="#933"><circle cx="20" cy="18" r="4"/><ellipse cx="20" cy="18" rx="12" ry="4" clip-path="url(#dpw)"/></g><circle fill="white" cx="4" cy="24" r="12" clip-path="url(#dpc)"/></svg>
+<img src="bird.svg" style="float:right;width:8rem;heigh:auto;max-width:25%;margin-left:2rem" alt="Dipper Bird"/>
 
 ## What is it?
 
