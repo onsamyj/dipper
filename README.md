@@ -2,11 +2,11 @@
 
 [![Tests](https://github.com/onsamyj/dipper/actions/workflows/ci.yml/badge.svg)](https://github.com/onsamyj/dipper/actions/workflows/ci.yml) [![Excavator](https://github.com/onsamyj/dipper/actions/workflows/excavator.yml/badge.svg)](https://github.com/onsamyj/dipper/actions/workflows/excavator.yml) [![Unlicense](https://img.shields.io/badge/Unlicense-Public_Domain-informational?logo=unlicense)](https://unlicense.org/)
 
-<img src="bird.svg" style="float:right;width:8rem;heigh:auto;max-width:25%;margin-left:2rem" alt="Dipper Bird"/>
+<img src="bird.svg" style="width: 8rem; max-width: 100%;" alt="Dipper Bird"/>
 
 ## What is it?
 
-Small [Scoop](https://scoop.sh/) bucket for miscellaneous bits and bobs. Made for personal use, but [free for everyone](https://unlicense.org/).
+Small [Scoop](https://scoop.sh/) bucket for miscellaneous bits and bobs. Made for personal use, but [free for everyone](https://unlicense.org/).
 
 To add this bucket, run\
 `scoop bucket add dipper https://github.com/onsamyj/dipper`.
@@ -24,7 +24,7 @@ Or, to be more robust,\
 **[8BitDo Ultimate Software](https://support.8bitdo.com/ultimate/pro2.html)** for for configuring [8BitDo Pro 2](https://www.8bitdo.com/pro2/) gamepads.\
 `scoop install 8bitdo-pro2`
 
-> ℹ️ Both of them have their own auto-update feature, which afaik, you can’t turn off. So this is more of an installation helper, than anything. And the version number might be out of date because of that.
+> ℹ️ Both of them have their own auto-update feature, which afaik you can’t turn off. So this is more of an installation helper than anything else. And the version number might be out of date because of that.
 
 **[Boop](https://github.com/miltoncandelero/Boop)** — remote installer for Nintendo 3DS and Nintendo Switch.\
 `scoop install boop`
@@ -34,7 +34,7 @@ Or, to be more robust,\
 `scoop install brook-xonese`\
 `scoop install brook-marine`
 
-**[Pixel-perfect mod](https://github.com/bladeSk/DOSBox-pixel-perfect)** — a modified version of [DOSBox](https://www.dosbox.com/) with focus on super crisp visual output.\
+**[Pixel-perfect mod](https://github.com/bladeSk/DOSBox-pixel-perfect)** — a modified version of [DOSBox](https://www.dosbox.com/) with an emphasis on super-clean visual output.\
 `scoop install dosbox-pixel-perfect`
 
 **[Greenfish Icon Editor Pro](http://greenfishsoftware.org/gfie.php)** — freeware image editor for icons, cursors, etc.\
@@ -43,7 +43,7 @@ Or, to be more robust,\
 **[Configuration tool](https://sayodevice.com/help/std/en/web-device/)** for Sayo mechanical keyboards (can have different names, looks [something like this](https://i.imgur.com/pok4pys.png)).\
 `scoop install sayodevice`
 
-**[Terminal ToDo List (TTDL)](https://github.com/VladimirMarkelov/ttdl/)** using plain text [todo.txt](https://todotxt.org) format.\
+**[Terminal ToDo List (TTDL)](https://github.com/VladimirMarkelov/ttdl/)** in plain text [todo.txt](https://todotxt.org) format.\
 `scoop install ttdl`
 
 **[Universal Android Debloater](https://github.com/0x192/universal-android-debloater)** does exactly what it says.\
