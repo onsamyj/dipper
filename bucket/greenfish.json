@@ -11,7 +11,8 @@
         "re": "\\((?<version>[\\d.]+)\\)"
     },
     "autoupdate": {
-        "url": "http://greenfishsoftware.org/dl/gfie/gfie$version.zip#/dl.zip"
+        "url": "http://greenfishsoftware.org/dl/gfie/gfie$version.zip#/dl.zip",
+        "extract_dir": "Greenfish Icon Editor Pro $version"
     },
     "pre_install": "if (!(Test-Path \"$persist_dir\\data\\config.json\")) { New-Item \"$dir\\data\\config.json\" -Force | Out-Null }",
     "persist": "data\\config.json",
