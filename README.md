@@ -61,7 +61,7 @@ Or, to be more robust,\
 =(o o)=  |\ | | | |_| |_
 (") (")  | \| |_| |   |_
 --- nothing personal ---
-This is a public domain.
+This is unlicense.org’d.
 
 Picture of a bird in the Social Preview (https://repository-images.githubusercontent.com/576199798/1551b624-4a96-4b45-901f-2f27495aeae6) is from https://pixabay.com/photos/dipper-bird-perched-animal-6992782/
 
