@@ -6,3 +6,4 @@ page.html
 checkver-*.html
 *.work.json
 .vscode
+.editorconfig
